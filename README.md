@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hello World! 👋 
+
+```java
+
+public class About extends Me { 
+
+  private String name = "Levent Can Yilmaz";
+  private int age = 29;
+  private Display display = Display.HUMAN;
+  private Status currentStatus = Status.LEARNING;
+
+}
+
+```
 
 <!--
 **lvntcnylmz/lvntcnylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
