@@ -5,7 +5,6 @@
 public class About extends Me { 
 
   private String name = "Levent Can Yilmaz";
-  private int age = 29;
   private Display display = Display.HUMAN;
   private Status currentStatus = Status.LEARNING;
 
