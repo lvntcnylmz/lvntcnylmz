@@ -7,7 +7,7 @@ public class About extends Me {
   private String name = "Levent Can Yilmaz";
   private Display display = Display.HUMAN;
   private Status currentStatus = Status.LEARNING;
-  private List<Languages> languages = List.of("Turkish", "English", "German");
+  private List<Languages> languages = List.of(Turkish, English, German);
   
 }
 
