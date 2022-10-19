@@ -3,19 +3,19 @@
 
 ```bash 
         can@arch
-        
-        -----> Levent Can Yilmaz
-        ├─ -> Humanoid
-        ├─ -> Earth
-        ├─ -> Turkish, English, German
-        └─ -> leventcanyilmaz@proton.me
+        ────────
+        Person───────> Levent Can Yilmaz
+        ├─Display   ─> Homo sapiens
+        ├─Location  ─> Earth
+        ├─Languages ─> Turkish, English, German
+        └─Mail      ─> leventcanyilmaz@proton.me
         
-        -----> Linux
-        ├─-> Arch Linux
-        └─ -> Nvim / VSCodium 
+        OS───────────> Linux
+        ├─Type      ─> Arch Linux
+        └─Editors   ─> Nvim / VSCodium 
         
-        -----> Tech Stack
-        └─ -> Linux, Git, Bash, Java, Spring, Angular  
+        Tech─────────> Tech Stack
+        └─Code      ─> Linux, Git, Bash, Java, Spring, Angular  
 ```
 
 
