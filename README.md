@@ -1,3 +1,26 @@
+###
+<img align="left" width="200" height="300" src="https://user-images.githubusercontent.com/19970595/196564215-06e48c30-46b3-4e02-afe1-c4a56c5415ce.png"/>
+
+```bash 
+        can@arch
+        
+        -----> Levent Can Yilmaz
+        ├─ -> Humanoid
+        ├─ -> Earth
+        ├─ -> Turkish, English, German
+        └─ -> leventcanyilmaz@proton.me
+        
+        -----> Linux
+        ├─-> Arch Linux
+        └─ -> Nvim / VSCodium 
+        
+        -----> Tech Stack
+        └─ -> Linux, Git, Bash, Java, Spring, Angular  
+```
+
+
+
+<!--
 ### Hello World! 👋 
 
 ```java
@@ -12,6 +35,7 @@ public class About extends Me {
 }
 
 ```
+-->
 
 <!--
 **lvntcnylmz/lvntcnylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +51,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
