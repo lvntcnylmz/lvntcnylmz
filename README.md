@@ -5,7 +5,7 @@
         can@arch
         ────────
         Person───────> Levent Can Yilmaz
-        ├─Display   ─> Homo sapiens
+        ├─Display   ─> Homo ludens
         ├─Location  ─> Earth
         ├─Languages ─> Turkish, English, German
         └─Mail      ─> leventcanyilmaz@proton.me
