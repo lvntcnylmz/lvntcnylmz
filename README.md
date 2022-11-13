@@ -4,18 +4,18 @@
 ```bash 
         can@arch
         ────────
-        Person───────> Levent Can Yilmaz
-        ├─Display   ─> Homo ludens
-        ├─Location  ─> Earth
+        Person ──────> Levent Can Yilmaz
+        ├─Display ───> Homo ludens
+        ├─Location ──> Earth
         ├─Languages ─> Turkish, English, German
-        └─Mail      ─> leventcanyilmaz@proton.me
+        └─Mail ──────> leventcanyilmaz@proton.me
         
-        OS───────────> Linux
-        ├─Type      ─> Arch Linux
-        └─Editors   ─> Nvim / VSCodium 
+        OS ──────────> Linux
+        ├─Type ──────> Arch Linux
+        └─Editors ───> Nvim / VSCodium 
         
-        Tech─────────> Tech Stack
-        └─Code      ─> Linux, Git, Bash, Java, Spring, Angular  
+        Tech ────────> Tech Stack
+        └─Code ──────> Linux, Git, Bash, Java, Spring, Angular  
 ```
 
 
