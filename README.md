@@ -14,7 +14,7 @@
         ├─Type ──────> Arch Linux
         └─Editors ───> Nvim / VSCodium 
         
-        Tech ────────> Tech Stack
+        Tech ────────> Jr. Fullstack Developer
         └─Code ──────> Linux, Git, Bash, Java, Spring, Angular  
 ```
 
