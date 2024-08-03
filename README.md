@@ -1,21 +1,21 @@
-###
+ ###
 <img align="right" width="200" height="300" src="https://user-images.githubusercontent.com/19970595/196564215-06e48c30-46b3-4e02-afe1-c4a56c5415ce.png"/>
 
 ```bash 
-        can@arch
-        ────────
+        machine@arch
+        ──────────────────────────────────────────
         Person ──────> Levent Can Yilmaz
         ├─Display ───> Homo ludens
         ├─Location ──> Earth
         ├─Languages ─> Turkish, English, German
         └─Mail ──────> leventcanyilmaz@proton.me
         
-        OS ──────────> Linux
-        ├─Type ──────> Arch Linux
+        OS ──────────> GNU/Linux
+        ├─Distro ────> Arch Linux
         └─Editors ───> Nvim / VSCodium 
         
-        Tech ────────> Jr. Fullstack Developer
-        └─Code ──────> Linux, Git, Bash, Java, Spring, Angular  
+        Tech ────────> Jr. Something Developer
+        └─Code ──────> Java, Rust, Git, Bash  
 ```
 
 
