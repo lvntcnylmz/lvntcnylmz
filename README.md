@@ -12,9 +12,9 @@
         
         OS ──────────> GNU/Linux
         ├─Distro ────> Arch Linux
-        └─Editors ───> Nvim / VSCodium 
+        └─Editors ───> Nvim
         
-        Tech ────────> Jr. Something Developer
+        Tech ────────> Jr. [Something] Developer
         └─Code ──────> Java, Rust, Git, Bash  
 ```
 
